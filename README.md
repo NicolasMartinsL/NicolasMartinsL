@@ -10,5 +10,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&username=NicolasMartinsL&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=donut&card_width=320&langs_count=8&theme=merko&hide_border=false&username=NicolasMartinsL" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=donut&card_width=320&langs_count=8&theme=merko&hide_border=false&username=NicolasMartinsL" height="150" 
+width="300" alt="languages graph"  />
 </div>
