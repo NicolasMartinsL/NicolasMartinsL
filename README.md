@@ -8,13 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,docker,git,java,mysql,ts,angular,arduino,postgres,py,spring)](https://skillicons.dev)
 
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicolasMartinsL&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=008000&text_color=37fd12&bg_color=1a1a1c&rank_icon=github&" alt="Nicolas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMartinsL&layout=compact&hide_border=true&title_color=008000&text_color=37fd12&bg_color=1a1a1c" />
-</div>
 
-[![Nicolas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasMartinsL&bg_color=1a1a1c&color=37fd12&line=37fd12&point=37fd12&area=true&hide_border=true)](https://github.com/NicolasMartinsL/github-readme-activity-graph)
 
 ![snake gif](https://github.com/NicolasMartinsL/NicolasMartinsL/blob/main/github-snake-dark.svg)
 
